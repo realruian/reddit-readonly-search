@@ -1,0 +1,9 @@
+{
+  "name": "reddit-readonly-search",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A minimal, personal, non-commercial, read-only Reddit Data API client.",
+  "scripts": {"start": "node index.mjs"},
+  "engines": {"node": ">=20"}
+}
