@@ -34,8 +34,8 @@ The client requests an application-only OAuth token using Reddit's installed-cli
 Requires Node.js 20 or later.
 
 ```bash
-node src/index.mjs search MachineLearning "small language models"
-node src/index.mjs comments MachineLearning abc123
+node index.mjs search MachineLearning "small language models"
+node index.mjs comments MachineLearning abc123
 ```
 
 ## Request limits
@@ -51,3 +51,36 @@ The code calls only:
 - `GET https://oauth.reddit.com/r/{subreddit}/comments/{post_id}`
 
 No write scopes or write endpoints are used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
