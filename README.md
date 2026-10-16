@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 # reddit-readonly-search
 
 A minimal personal, non-commercial, read-only client for Reddit's official Data API.
@@ -52,35 +54,6 @@ The code calls only:
 
 No write scopes or write endpoints are used.
 
+## License
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[MIT](LICENSE)
